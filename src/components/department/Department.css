@@ -1,0 +1,21 @@
+p {
+    cursor: pointer;
+    padding: 10px;
+    display: -webkit-inline-box;
+}
+
+.sign {
+    font-weight: bold;
+}
+
+section .department {
+    border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table {
+    padding: 10px;
+}
